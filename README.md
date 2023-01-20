@@ -12,9 +12,9 @@ Data Mining project carried out on two datasets extracted from the Twitter platf
 <br /><br />
 Task 1: <b>Data Understanding and Preparation</b>
 
-&nbsp;&nbsp;Task 1.1: <b>Data Understanding</b>, explore the dataset with the analytical tools. Evaluate data quality, distribution of variables and pairwise correlations.
+&nbsp;&nbsp;&nbsp;Task 1.1: <b>Data Understanding</b>, explore the dataset with the analytical tools. Evaluate data quality, distribution of variables and pairwise correlations.
 
-&nbsp;&nbsp;Task 1.2: <b>Data Preparation</b>, improve the quality of the data and prepare them by extracting new interesting features to describe the user and their behaviour from the information gathered from tweets.
+&nbsp;&nbsp;&nbsp;Task 1.2: <b>Data Preparation</b>, improve the quality of the data and prepare them by extracting new interesting features to describe the user and their behaviour from the information gathered from tweets.
 <br /><br />
 Task 2: <b>Clustering analysis</b>, based on the user’s profile explore the dataset using various clustering techniques.
 <br /><br />
