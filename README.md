@@ -11,8 +11,10 @@ Authors: [Alberto Marinelli](https://github.com/AlbertoMarinelli), [Alessandro B
 Data Mining project carried out on two datasets extracted from the Twitter platform, one on users and one on Tweets. The project consists of data analysis based on data mining tools divided into four tasks:
 <br /><br />
 Task 1: <b>Data Understanding and Preparation</b>
->> Task 1.1: <b>Data Understanding</b>, explore the dataset with the analytical tools. Evaluate data quality, distribution of variables and pairwise correlations.
->> Task 1.2: <b>Data Preparation</b>, improve the quality of the data and prepare them by extracting new interesting features to describe the user and their behaviour from the information gathered from tweets.
+> Task 1.1: <b>Data Understanding</b>, explore the dataset with the analytical tools. Evaluate data quality, distribution of variables and pairwise correlations.
+> 
+> Task 1.2: <b>Data Preparation</b>, improve the quality of the data and prepare them by extracting new interesting features to describe the user and their behaviour from the information gathered from tweets.
+
 <br /><br />
 Task 2: <b>Clustering analysis</b>, based on the user’s profile explore the dataset using various clustering techniques.
 <br /><br />
